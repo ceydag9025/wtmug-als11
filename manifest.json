@@ -1,10 +1,10 @@
 {
-  "name": "P2P Görme Keskinliği Testi",
-  "short_name": "GözTestiPWA",
+  "name": "Görme Keskinliği Testi PWA",
+  "short_name": "GözTesti",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0284c7",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "icon-192.png",
